@@ -1,1 +1,7 @@
-+ replace image
++ opendoc
++ count pages
++ loop-1: each page in a doc
+- loop-2: each image in a page
+- check if the image is Inlineshape & rectangular
+- save the file
+- close the file
